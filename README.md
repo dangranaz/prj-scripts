@@ -71,6 +71,11 @@ engine-mlx repo and the script runs it via `cargo` with the `mlx` feature.
 - [engine-mlx](https://github.com/dangranaz/engine-mlx) — the inference engine.
 - [prj-bench](https://github.com/dangranaz/prj-bench) — benchmark a running server.
 
+## ⭐ Support the project
+
+If these scripts make running engine-mlx easier for you, please **give the
+repository a star** and share it. Feedback and suggestions are very welcome.
+
 ## License
 
 MIT.
